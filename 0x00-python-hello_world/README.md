@@ -1,2 +1,2 @@
-# Intwroduction to python
+# Introduction to python
 ## ALX Task 
