@@ -1,2 +1,2 @@
-# All t python project task.
+# All s python project task.
 # More to be added soon
