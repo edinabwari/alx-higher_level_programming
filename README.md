@@ -1,2 +1,2 @@
-# PSython project task.
+# Python project task.
 # More to be added soon
