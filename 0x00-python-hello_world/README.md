@@ -1,2 +1,2 @@
 # Introduction to python 
-## ALX Task mor to be added soon 
+## ALX Task morto be added soon 
