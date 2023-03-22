@@ -1,3 +1,4 @@
 def add(a, b):
-    sum = a + b
-    print(sum)
+    add = __import__('10-add').add
+    print(add)
+add()
